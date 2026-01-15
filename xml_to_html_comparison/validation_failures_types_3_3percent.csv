@@ -1,0 +1,6 @@
+﻿doc_id,doc_type,table_short_name,status,loss_ratio,threshold,url,missing_words
+517417,3,t_fass_document,FAIL,0.05244755244755245,0.03,https://dev.tech.fass.se/health/product/20040302000043/fass-text,"extremiteter, mediastinum, neutropeniagranulocytos, reaktivering, benigna, nekrolys, anorexi, urinvägar, svullnad, erytematosusliknande"
+72339,3,t_fass_document,FAIL,0.052417006406523005,0.03,https://dev.tech.fass.se/health/product/20060105000026/fass-text,"extremiteter, mediastinum, neutropeniagranulocytos, reaktivering, benigna, nekrolys, anorexi, urinvägar, svullnad, erytematosusliknande"
+100127,3,t_fass_document,FAIL,0.03199343724364233,0.03,https://dev.tech.fass.se/health/product/20051112000055/fass-text,"mediastinum, administreringsstället, smärtor, värme, yrsel, 000, upplevelse, bröstkorg, kyla, hjärtat"
+517418,3,t_fass_document,FAIL,0.052478134110787174,0.03,https://dev.tech.fass.se/health/product/20040302000050/fass-text,"extremiteter, mediastinum, neutropeniagranulocytos, reaktivering, benigna, nekrolys, anorexi, urinvägar, svullnad, erytematosusliknande"
+7896,3,t_fass_document,FAIL,0.0731981981981982,0.03,https://dev.tech.fass.se/health/product/19870918000021/fass-text,"muskelstelhet, känd, galaktorré, depåeffekt, njurar, administreringsstället, systemet, utsättningssyndrom, 1100, tardiv"

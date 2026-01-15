@@ -1,0 +1,8 @@
+﻿doc_id,doc_type,table_short_name,status,loss_ratio,url,missing_words
+501221,7,t_fass_package_leaflet,FAIL,"0,0010395010395010396",https://dev.tech.fass.se/health/product/20131031000012/pl,ala
+507612,7,t_fass_package_leaflet,FAIL,"0,027624309392265192",https://dev.tech.fass.se/health/product/20101215000183/pl,"dem, men, liksom, orsaka, alla"
+424692,7,t_fass_package_leaflet,FAIL,"0,0016891891891891893",https://dev.tech.fass.se/health/product/20150717000047/pl,indre
+168184,7,t_fass_package_leaflet,FAIL,"0,003257328990228013",https://dev.tech.fass.se/health/product/19760121000034/pl,"informa, tion"
+166884,7,t_fass_package_leaflet,MISSING_IN_PG,,,Doc ID 166884 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+507368,7,t_fass_package_leaflet,FAIL,"0,001447178002894356",https://dev.tech.fass.se/health/product/20070201000028/pl,vet
+394823,7,t_fass_package_leaflet,FAIL,"0,007989347536617843",https://dev.tech.fass.se/health/product/20101019000051/pl,"kväll, uppvaknande, sänggående, morgon, anvisning, totalt"

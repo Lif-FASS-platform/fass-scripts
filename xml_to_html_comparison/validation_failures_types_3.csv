@@ -1,0 +1,13 @@
+﻿doc_id,doc_type,table_short_name,status,loss_ratio,url,missing_words
+517417,3,t_fass_document,FAIL,"0,05528255528255528",https://dev.tech.fass.se/health/product/20040302000043/fass-text,"anorexi, minskat, magbesvär, vertigo, hudutslag, cystor, dimsyn, huvudvärk, centrala, blodkärl"
+72339,3,t_fass_document,FAIL,"0,05518087063151441",https://dev.tech.fass.se/health/product/20060105000026/fass-text,"anorexi, minskat, magbesvär, vertigo, hudutslag, cystor, dimsyn, huvudvärk, centrala, blodkärl"
+9396,3,t_fass_document,FAIL,"0,0017761989342806395",https://dev.tech.fass.se/health/product/19930205000124/fass-text,"ända, godk"
+100127,3,t_fass_document,FAIL,"0,03611111111111111",https://dev.tech.fass.se/health/product/20051112000055/fass-text,"plasmanivåer, upplevelse, symtom, lever, stället, rygg, skelett, hypertension, kropps, rodnad"
+503918,3,t_fass_document,FAIL,"0,006340057636887608",https://dev.tech.fass.se/health/product/20051220000022/fass-text,"järnoxidpigment, hypromellos, tablettkärna, röd, titandioxid, magnesiumstearat, majsstärkelse, cellulosa, mikrokristallin, tablettdragering"
+81395,3,t_fass_document,FAIL,"0,013358778625954198",https://dev.tech.fass.se/health/product/20041007000017/fass-text,"lever, hud, vävnad, administreringsstället, alopeci, diarré, immunsystemet, dyspepsi, transaminaser, magtarmkanalen"
+131823,3,t_fass_document,FAIL,"0,012682308180088777",https://dev.tech.fass.se/health/product/20041007000031/fass-text,"lever, hud, vävnad, administreringsstället, alopeci, diarré, immunsystemet, dyspepsi, transaminaser, magtarmkanalen"
+502079,3,t_fass_document,FAIL,"0,0007627765064836003",https://dev.tech.fass.se/health/product/20160531000031/fass-text,sel
+156484,3,t_fass_document,FAIL,"0,0008389261744966443",https://dev.tech.fass.se/health/product/20070524000033/fass-text,bell
+517418,3,t_fass_document,FAIL,"0,05528255528255528",https://dev.tech.fass.se/health/product/20040302000050/fass-text,"anorexi, minskat, magbesvär, vertigo, hudutslag, cystor, dimsyn, huvudvärk, centrala, blodkärl"
+506021,3,t_fass_document,FAIL,"0,0013540961408259986",https://dev.tech.fass.se/health/product/20190225000061/fass-text,"rtor, buksmä"
+7896,3,t_fass_document,FAIL,"0,0695754716981132",https://dev.tech.fass.se/health/product/19870918000021/fass-text,"dyskinesi, urinvägar, nutrition, hud, muskelstelhet, vävnad, neuroleptikasyndrom, perinatalperiod, viktminskning, administreringsstället"

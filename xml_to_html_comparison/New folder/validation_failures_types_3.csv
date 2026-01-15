@@ -1,0 +1,14 @@
+﻿doc_id,doc_type,table_short_name,status,loss_ratio,url,missing_words
+517417,3,t_fass_document,FAIL,"0,055762081784386616",https://dev.tech.fass.se/health/product/20040302000043/fass-text,"svullnad, vertigo, hudreaktioner, gulsot, rapporter, bindväv, neoplasier, huvudvärk, andningspåverkan, nekrolys"
+72339,3,t_fass_document,FAIL,"0,055693069306930694",https://dev.tech.fass.se/health/product/20060105000026/fass-text,"svullnad, vertigo, hudreaktioner, gulsot, rapporter, bindväv, neoplasier, huvudvärk, andningspåverkan, nekrolys"
+9396,3,t_fass_document,FAIL,"0,0017825311942959",https://dev.tech.fass.se/health/product/19930205000124/fass-text,"ända, godk"
+100127,3,t_fass_document,FAIL,"0,033550792171481825",https://dev.tech.fass.se/health/product/20051112000055/fass-text,"kroppstemperaturen, huvudvärk, blodkärl, hudutslag, smärtor, rygg, liten, symtom, yrsel, hjärtat"
+503918,3,t_fass_document,FAIL,"0,006952491309385863",https://dev.tech.fass.se/health/product/20051220000022/fass-text,"järnoxidpigment, magnesiumstearat, talk, tablettkärna, cellulosa, röd, titandioxid, hypromellos, placebo, majsstärkelse"
+81395,3,t_fass_document,FAIL,"0,012789281364190013",https://dev.tech.fass.se/health/product/20041007000017/fass-text,"anafylaktoid, gallvägar, transaminaser, psykiska, diarré, lever, alopeci, allmänna, subkutan, somnolens"
+131823,3,t_fass_document,FAIL,"0,012150668286755772",https://dev.tech.fass.se/health/product/20041007000031/fass-text,"anafylaktoid, gallvägar, transaminaser, psykiska, diarré, lever, alopeci, allmänna, subkutan, somnolens"
+502079,3,t_fass_document,FAIL,"0,0007587253414264037",https://dev.tech.fass.se/health/product/20160531000031/fass-text,sel
+156484,3,t_fass_document,FAIL,"0,000835421888053467",https://dev.tech.fass.se/health/product/20070524000033/fass-text,bell
+517418,3,t_fass_document,FAIL,"0,05579665220086795",https://dev.tech.fass.se/health/product/20040302000050/fass-text,"svullnad, vertigo, hudreaktioner, gulsot, rapporter, bindväv, neoplasier, huvudvärk, andningspåverkan, nekrolys"
+506021,3,t_fass_document,FAIL,"0,0013614703880190605",https://dev.tech.fass.se/health/product/20190225000061/fass-text,"buksmä, rtor"
+7896,3,t_fass_document,FAIL,"0,0711743772241993",https://dev.tech.fass.se/health/product/19870918000021/fass-text,"muskelstelhet, bindväv, ackommodationsbesvär, huvudvärk, blodkärl, hypokinesi, ventrikeltakykardi, illamående, mindre, urinvägar"
+502250,3,t_fass_document,FAIL,"0,00039635354736424893",https://dev.tech.fass.se/health/product/20170407000065/fass-text,rrvägen

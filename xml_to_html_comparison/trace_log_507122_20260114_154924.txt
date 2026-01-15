@@ -1,0 +1,5 @@
+2026-01-14 15:49:24,533 - INFO - Investigative mode for Doc ID: 507122
+2026-01-14 15:49:28,918 - INFO - Fetching Oracle documents...
+2026-01-14 15:49:29,173 - DEBUG - Tokens - Oracle: 973, Postgres: 1001
+2026-01-14 15:49:29,174 - DEBUG - Calculated loss ratio: 0.0010
+2026-01-14 15:49:29,194 - INFO - Done. Processed: 1. Failures: 1. Skipped: 0

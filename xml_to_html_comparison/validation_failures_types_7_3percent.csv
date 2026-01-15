@@ -1,0 +1,183 @@
+﻿doc_id,doc_type,table_short_name,status,loss_ratio,threshold,url,missing_words
+396782,7,t_fass_package_leaflet,FAIL,0.22409638554216868,0.03,https://dev.tech.fass.se/health/product/20091211000037/pl,"inklusive, dåligt, sömnlöshet, gulsot, hörselnedsättning, vita, ansikte, visar, åkomma, tår"
+179643,7,t_fass_package_leaflet,FAIL,0.030927835051546393,0.03,https://dev.tech.fass.se/health/product/20080229000016/pl,"70mg, tyskland, wöchentlich, österrike, töflur, namn, alendrónico, alendronsäure, medlemsland, tablets"
+522187,7,t_fass_package_leaflet,FAIL,0.2824302134646962,0.03,https://dev.tech.fass.se/health/product/20210207000015/pl,"personer, ökat, gulsot, hård, gallblåsan, ångest, vita, blöjutslag, reaktioner, prickar"
+502713,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502713 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+525886,7,t_fass_package_leaflet,FAIL,0.2066905615292712,0.03,https://dev.tech.fass.se/health/product/20230413000081/pl,"inre, flesta, biverkningarna, undersökas, koagulering, gulsot, vanlig, biverkan, ansikte, purpura"
+423543,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 423543 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+515145,7,t_fass_package_leaflet,FAIL,0.2080979284369115,0.03,https://dev.tech.fass.se/health/product/20210730000063/pl,"knut, personer, ändrar, ökat, sömnlöshet, blodkroppsantal, erektion, dyskinesi, hypoestesi, självmordsförsök"
+415817,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 415817 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+415848,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 415848 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+503733,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503733 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+525371,7,t_fass_package_leaflet,FAIL,0.2129798903107861,0.03,https://dev.tech.fass.se/health/product/20190722000021/pl,"talsvårigheter, tankegångar, ilska, inklusive, samtidigt, spänningshuvudvärk, nervositet, överdriven, flesta, biverkningarna"
+403968,7,t_fass_package_leaflet,FAIL,0.27004716981132076,0.03,https://dev.tech.fass.se/health/product/20110616000012/pl,"runt, utbredda, ökat, biverkningarna, uppstå, brunt, fötter, biverkan, ansikte, utveckla"
+503007,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503007 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+502738,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502738 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+509366,7,t_fass_package_leaflet,FAIL,0.032948929159802305,0.03,https://dev.tech.fass.se/health/product/20190301000015/pl,"1000, ögon, serumkreatinin, uteslutas, långtidsanvändning, svår, förekommer, sjukdom, ökning, bli"
+392761,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 392761 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+502836,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502836 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+502839,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502839 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+502840,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502840 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+503481,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503481 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+503101,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503101 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+525106,7,t_fass_package_leaflet,FAIL,0.08485639686684072,0.03,https://dev.tech.fass.se/health/product/20180207000028/pl,"minskade, säkerhet, reda, ickerelaterade, glossit, blek, uppträder, klåda, leverfunktionstest, smakförändringar"
+505993,7,t_fass_package_leaflet,FAIL,0.10606060606060606,0.03,https://dev.tech.fass.se/health/product/19990827000087/pl,"paraffinglycerolpolymetakrylat, renat, polysorbat, mgg, dimetikon, hydrerad, marknadsföras, fraktionerad, pump, lättflytande"
+503745,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503745 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+522313,7,t_fass_package_leaflet,FAIL,0.03709428129829984,0.03,https://dev.tech.fass.se/health/product/20200302000133/pl,"tyskland, österrike, förenade, ezen, inom, ezetimiba, godkänt, slovakien, samarbetsområdet, cexado"
+502745,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502745 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+502800,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502800 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+410317,7,t_fass_package_leaflet,FAIL,0.09895052473763119,0.03,https://dev.tech.fass.se/health/product/19951025000033/pl,"förpackningsstorlekar, namnet, utan, met, dotarems, motsvarande, utseende, försäljning, marknadsföras, godkändes"
+527213,7,t_fass_package_leaflet,FAIL,0.13110047846889952,0.03,https://dev.tech.fass.se/health/product/20240219000031/pl,"överkänslighetsreaktioner, överdriven, blodsockernivå, ökat, inhalationsläkemedel, fötter, vita, ansikte, överhoppade, kortikosteroidernas"
+502735,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502735 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+524971,7,t_fass_package_leaflet,FAIL,0.2262135922330097,0.03,https://dev.tech.fass.se/health/product/20171201000039/pl,"minskade, listan, solljus, blek, hepatit, orgasm, ökat, gula, ömhet, fötter"
+415207,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 415207 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+424496,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 424496 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+424382,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 424382 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+401527,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 401527 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+421811,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 421811 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+528032,7,t_fass_package_leaflet,FAIL,0.24013921113689096,0.03,https://dev.tech.fass.se/health/product/20230530000056/pl,"minskade, hepatit, natten, nervositet, koagulationsproblem, synskärpa, tefärgad, gulsot, fötter, kramp"
+508213,7,t_fass_package_leaflet,FAIL,0.07730061349693251,0.03,https://dev.tech.fass.se/health/product/20191015000025/pl,"förstoppning, tänka, herpes, neutrofiler, hjärninfektion, tillfällen, pneumoni, gulsot, oregelbundna, blodtryck"
+388098,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 388098 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+423381,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 423381 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+423308,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 423308 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+395542,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 395542 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+354624,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 354624 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+422905,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 422905 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+411596,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 411596 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+500334,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 500334 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+424631,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 424631 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+500791,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 500791 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+424630,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 424630 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+423380,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 423380 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+423353,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 423353 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+526467,7,t_fass_package_leaflet,FAIL,0.16417910447761194,0.03,https://dev.tech.fass.se/health/product/19530228000011/pl,"talsvårigheter, 1000, ingen, buksmärtor, klåda, personer, hudreaktion, orsakade, svullnad, långsam"
+508913,7,t_fass_package_leaflet,FAIL,0.11686746987951807,0.03,https://dev.tech.fass.se/health/product/20190110000046/pl,"halsbränna, nervositet, ökat, biverkningarna, fötter, obehag, underbenet, liksom, rodnad, aptit"
+501856,7,t_fass_package_leaflet,FAIL,0.16221374045801526,0.03,https://dev.tech.fass.se/health/product/20160719000051/pl,"talsvårigheter, blek, nervositet, ökat, parestesi, ångest, orsaka, sidan, svårt, bröstsmärtor"
+418030,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 418030 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+410100,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 410100 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+527229,7,t_fass_package_leaflet,FAIL,0.13786213786213786,0.03,https://dev.tech.fass.se/health/product/20060523000011/pl,"inre, nervositet, överdriven, ökat, sömnlöshet, smärtsamma, långsamma, levervärden, fötter, tår"
+412147,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 412147 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+424323,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 424323 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+502397,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502397 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+522438,7,t_fass_package_leaflet,FAIL,0.0984251968503937,0.03,https://dev.tech.fass.se/health/product/20220502000177/pl,"industriestraße, holding, tyskland, förpackningsstorlekar, olika, kobaltweg, två, saltsyra, motsvarande, utseende"
+503022,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503022 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+503773,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503773 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+409738,7,t_fass_package_leaflet,FAIL,0.14513274336283186,0.03,https://dev.tech.fass.se/health/product/20121018000074/pl,"led, ihållande, inklusive, blek, följande, ökat, sömnlöshet, muskelvävnad, fötter, ansikte"
+500554,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 500554 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+503483,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503483 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+522743,7,t_fass_package_leaflet,FAIL,0.08314855875831485,0.03,https://dev.tech.fass.se/health/product/20171222000018/pl,"knäna, benvävnaden, starkare, överdriven, börjat, rörelsesvårighet, oregelbundna, kortikosteroider, benägna, rastlöshet"
+502849,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502849 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+503103,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503103 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+525463,7,t_fass_package_leaflet,FAIL,0.0935412026726058,0.03,https://dev.tech.fass.se/health/product/20190725000059/pl,"celler, ansikte, utveckla, allt, höra, nedan, 100, möjligt, uttalad, förändring"
+525367,7,t_fass_package_leaflet,FAIL,0.2129798903107861,0.03,https://dev.tech.fass.se/health/product/20190722000014/pl,"talsvårigheter, tankegångar, ilska, inklusive, samtidigt, spänningshuvudvärk, nervositet, överdriven, flesta, biverkningarna"
+501857,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 501857 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+504418,7,t_fass_package_leaflet,FAIL,0.20243902439024392,0.03,https://dev.tech.fass.se/health/product/20180529000041/pl,"aluminiumlack, makrogol, pharma, ljusblå, torrt, inom, luxemburg, 100, innehållsämnen, röd"
+420215,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 420215 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+400167,7,t_fass_package_leaflet,FAIL,0.033823529411764704,0.03,https://dev.tech.fass.se/health/product/20100706000060/pl,"säkerhet, ses, 751, wwwlakemedelsverketse, vanlig, biverkning, läkemedelsverket, vanligt, verkar, direkt"
+503235,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503235 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+523788,7,t_fass_package_leaflet,FAIL,0.034334763948497854,0.03,https://dev.tech.fass.se/health/product/20140702000121/pl,"säkerhet, buksmärtor, upplevde, sittande, okontrollerade, 751, förekommer, frekvens, övre, läkemedelsverket"
+405830,7,t_fass_package_leaflet,FAIL,0.05063291139240506,0.03,https://dev.tech.fass.se/health/product/19760225000039/pl,"1000, förstoppning, långtidsanvändning, värre, upp, orsaka, användare, märker, diarré, förhöjda"
+190703,7,t_fass_package_leaflet,FAIL,0.07562076749435666,0.03,https://dev.tech.fass.se/health/product/19950215000075/pl,"octanorm, iniezione, tyskland, injection, belgien, разтвор, voor, injekcinis, slovenien, österrike"
+527210,7,t_fass_package_leaflet,FAIL,0.1456953642384106,0.03,https://dev.tech.fass.se/health/product/20060525000033/pl,"inre, nervositet, överdriven, ökat, avsaknad, sömnlöshet, tillräckligt, smärtsamma, långsamma, levervärden"
+524998,7,t_fass_package_leaflet,FAIL,0.0935412026726058,0.03,https://dev.tech.fass.se/health/product/20190725000035/pl,"celler, ansikte, utveckla, allt, höra, nedan, 100, möjligt, uttalad, förändring"
+501114,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 501114 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+527615,7,t_fass_package_leaflet,FAIL,0.08099173553719008,0.03,https://dev.tech.fass.se/health/product/20170403000106/pl,"nässelfeber, klåda, tarmproblem, 751, wwwlakemedelsverketse, men, läkemedelsverket, 000, allergiska, användare"
+501840,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 501840 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+502273,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502273 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+413449,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 413449 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+397103,7,t_fass_package_leaflet,FAIL,0.10044313146233383,0.03,https://dev.tech.fass.se/health/product/20100929000021/pl,"skallskada, frekventa, förstoppning, följd, sömnlöshet, upplever, blåmärken, öroninfektion, ångest, olycksskada"
+408801,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 408801 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+527273,7,t_fass_package_leaflet,FAIL,0.1253968253968254,0.03,https://dev.tech.fass.se/health/product/20220225000010/pl,"effektivt, personer, ändrar, syndrom, kramp, ofta, reaktioner, bröstsmärtor, takykardi, rodnad"
+133443,7,t_fass_package_leaflet,FAIL,0.10457516339869281,0.03,https://dev.tech.fass.se/health/product/20061202000032/pl,"tyskland, slovenien, pharma, sophiegermainstrasse, pharmaceutical, sidan, elm, europharm, multipelförpackningar, park"
+386183,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 386183 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+501097,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 501097 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+500786,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 500786 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+525112,7,t_fass_package_leaflet,FAIL,0.14104046242774568,0.03,https://dev.tech.fass.se/health/product/20210326000149/pl,"talsvårigheter, bevis, nervositet, ansamling, doktor, reaktioner, nedan, självmordsbeteende, liksom, medvetandenivå"
+170123,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 170123 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+525888,7,t_fass_package_leaflet,FAIL,0.20591715976331362,0.03,https://dev.tech.fass.se/health/product/20230413000098/pl,"inre, flesta, biverkningarna, undersökas, koagulering, gulsot, vanlig, biverkan, ansikte, purpura"
+88144,7,t_fass_package_leaflet,FAIL,0.031794871794871796,0.03,https://dev.tech.fass.se/health/product/20060620000167/pl,"förpackningsstorlekar, ändrades, pharma, orionintie, utseende, försäljning, 15x6, marknadsföras, 20211012, sidan"
+398756,7,t_fass_package_leaflet,FAIL,0.07909604519774012,0.03,https://dev.tech.fass.se/health/product/20110407000047/pl,"tyskland, belgien, slovenien, rumänien, österrike, cypern, namn, storbritannien, sverige, grekland"
+166884,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 166884 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+500360,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 500360 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+503825,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503825 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+501411,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 501411 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+502463,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502463 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+523725,7,t_fass_package_leaflet,FAIL,0.259297520661157,0.03,https://dev.tech.fass.se/health/product/20200221000047/pl,"listan, fosfor, urinblåsan, personer, venerna, följande, gavs, ökat, biverkningarna, laboratorieanalyser"
+420862,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 420862 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+422168,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 422168 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+525375,7,t_fass_package_leaflet,FAIL,0.21278538812785389,0.03,https://dev.tech.fass.se/health/product/20190722000038/pl,"talsvårigheter, tankegångar, ilska, inklusive, samtidigt, spänningshuvudvärk, nervositet, överdriven, flesta, biverkningarna"
+525378,7,t_fass_package_leaflet,FAIL,0.2129798903107861,0.03,https://dev.tech.fass.se/health/product/20190722000045/pl,"talsvårigheter, tankegångar, ilska, inklusive, samtidigt, spänningshuvudvärk, nervositet, överdriven, flesta, biverkningarna"
+502949,7,t_fass_package_leaflet,FAIL,0.06827309236947791,0.03,https://dev.tech.fass.se/health/product/20080716000093/pl,"tyskland, monofar, slovenien, monoferric, rumänien, österrike, förenade, estland, inom, monover"
+503263,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503263 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+415735,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 415735 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+407457,7,t_fass_package_leaflet,FAIL,0.3743139407244786,0.03,https://dev.tech.fass.se/health/product/20110225000021/pl,"tjocktarmen, ansamling, smärtsamma, hudmissfärgning, fötter, syndrom, undernäring, djupa, lunga, uppmana"
+392393,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 392393 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+509365,7,t_fass_package_leaflet,FAIL,0.03241491085899514,0.03,https://dev.tech.fass.se/health/product/20190301000022/pl,"1000, ögon, serumkreatinin, uteslutas, långtidsanvändning, svår, förekommer, sjukdom, ökning, bli"
+525803,7,t_fass_package_leaflet,FAIL,0.0702054794520548,0.03,https://dev.tech.fass.se/health/product/20220406000051/pl,"tyskland, ändrades, herstellung, läkemedelsverkets, hikma, zur, liuosta, perfusão, einer, senast"
+502859,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502859 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+502883,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502883 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+174984,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 174984 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+501557,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 501557 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+424840,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 424840 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+502886,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502886 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+400238,7,t_fass_package_leaflet,FAIL,0.08312958435207823,0.03,https://dev.tech.fass.se/health/product/20031212000063/pl,"tyskland, pâte, toothpaste, fluorid, inom, 5000ppm, tannpasta, 5mgg, tandpasta, sverige"
+525460,7,t_fass_package_leaflet,FAIL,0.0935412026726058,0.03,https://dev.tech.fass.se/health/product/20190725000042/pl,"celler, ansikte, utveckla, allt, höra, nedan, 100, möjligt, uttalad, förändring"
+410223,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 410223 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+418026,7,t_fass_package_leaflet,FAIL,0.10597302504816955,0.03,https://dev.tech.fass.se/health/product/20150225000010/pl,"magnesiumstearat, förpackningsstorlekar, smakämnen, pepparmint, hypromellos, utseende, marknadsföras, vita, e421, e1201"
+74390,7,t_fass_package_leaflet,FAIL,0.07391304347826087,0.03,https://dev.tech.fass.se/health/product/20040607003763/pl,"tre, förpackningsstorlekar, belgien, bagsværd, österrike, rumänien, styrkor, allé, motsvarande, utseende"
+407770,7,t_fass_package_leaflet,FAIL,0.09480122324159021,0.03,https://dev.tech.fass.se/health/product/19950329000053/pl,"ingen, celler, klåda, svimningskänsla, överdriven, smakförändringar, blåmärken, blodkoagulation, upp, hörselstörningar"
+503642,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503642 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+500775,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 500775 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+524802,7,t_fass_package_leaflet,FAIL,0.17295980511571254,0.03,https://dev.tech.fass.se/health/product/20220725000114/pl,"celler, nervositet, vattnigt, cirkulära, långsamma, ofta, konjunktivit, muskelsmärta, förhöjt, 100"
+414005,7,t_fass_package_leaflet,FAIL,0.10526315789473684,0.03,https://dev.tech.fass.se/health/product/20131231000041/pl,"ihållande, försiktig, komplikationen, vanlig, ansikte, orsaka, fungera, takykardi, liksom, läppar"
+422886,7,t_fass_package_leaflet,FAIL,0.030991735537190084,0.03,https://dev.tech.fass.se/health/product/20130619000048/pl,"säkerhet, irriterad, 751, wwwlakemedelsverketse, mängder, informationenom, äveneventuella, läkemedelsverket, oväntat, direkt"
+502808,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502808 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+502667,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502667 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+502720,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 502720 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+45180,7,t_fass_package_leaflet,FAIL,0.07636887608069164,0.03,https://dev.tech.fass.se/health/product/20040607003756/pl,"tre, förpackningsstorlekar, belgien, bagsværd, österrike, rumänien, styrkor, allé, motsvarande, utseende"
+500882,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 500882 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+500780,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 500780 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+500778,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 500778 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+411276,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 411276 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+164504,7,t_fass_package_leaflet,FAIL,0.10123456790123457,0.03,https://dev.tech.fass.se/health/product/19820205000135/pl,"förpackningsstorlekar, renat, produktion, smakämnen, sackarinnatrium, celsiusgatan, vanilj, utseende, försäljning, hallon"
+503835,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503835 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+423638,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 423638 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+500647,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 500647 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+525381,7,t_fass_package_leaflet,FAIL,0.15534979423868311,0.03,https://dev.tech.fass.se/health/product/20211117000010/pl,"buksmärtor, solljus, nervositet, flesta, konstiga, ångest, syndrom, hivläkemedlen, blodlipider, själva"
+500650,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 500650 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+525095,7,t_fass_package_leaflet,FAIL,0.18032786885245902,0.03,https://dev.tech.fass.se/health/product/20170523000031/pl,"halsbränna, herpes, blek, förvirringstillstånd, tefärgad, långsamma, ömhet, vita, ansikte, orsaka"
+525184,7,t_fass_package_leaflet,FAIL,0.0865561694290976,0.03,https://dev.tech.fass.se/health/product/20210111000026/pl,"zostervirus, inklusive, droppas, herpes, personer, klåda, orsakad, följande, ökat, biverkningarna"
+503480,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503480 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+501101,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 501101 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+500651,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 500651 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+500755,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 500755 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+500907,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 500907 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+524912,7,t_fass_package_leaflet,FAIL,0.09688013136288999,0.03,https://dev.tech.fass.se/health/product/20180131000019/pl,"1000, ögon, nässlemhinnor, klåda, hals, irriterade, hård, torr, förekommer, fyllnadskänsla"
+423237,7,t_fass_package_leaflet,FAIL,0.09137055837563451,0.03,https://dev.tech.fass.se/health/product/20150501000154/pl,"1000, ögon, lindriga, förstoppning, tarmbesvär, klåda, hals, försvinner, gula, erektion"
+503081,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 503081 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+199107,7,t_fass_package_leaflet,MISSING_IN_PG,,,,Doc ID 199107 not found in Postgres table fasspackageleaflet.t_fass_package_leaflet
+525627,7,t_fass_package_leaflet,FAIL,0.08706467661691543,0.03,https://dev.tech.fass.se/health/product/20220617000024/pl,"säkerhet, par, barnpatienter, 751, wwwlakemedelsverketse, skakningar, efter, dagar, behandlingens, bör"
+518924,7,t_fass_package_leaflet,FAIL,0.1264,0.03,https://dev.tech.fass.se/health/product/20210524000019/pl,"sängs, sömnlöshet, ångest, ansikte, upptäcker, dock, ögonen, nedan, liksom, rodnad"
+522681,7,t_fass_package_leaflet,FAIL,0.23745410036719705,0.03,https://dev.tech.fass.se/health/product/20211125000033/pl,"ilska, runt, somnolens, överdriven, biverkningarna, dyskinesi, visslingar, vanlig, sammandragningar, fötter"
+505702,7,t_fass_package_leaflet,FAIL,0.031496062992125984,0.03,https://dev.tech.fass.se/health/product/20180126000017/pl,"läkemedelsverket, rapportering, säkerhet, informationen, öka, box, direkt, rapportera, 751, läkemedels"
+520830,7,t_fass_package_leaflet,FAIL,0.10038610038610038,0.03,https://dev.tech.fass.se/health/product/19980805000024/pl,"patienter, lindriga, inklusive, runt, ökat, flesta, obehagskänsla, mer, trombocyter, svullnad"
+525098,7,t_fass_package_leaflet,FAIL,0.0763888888888889,0.03,https://dev.tech.fass.se/health/product/20180425000015/pl,"säkerhet, neutrofiler, biverkningarna, sömnlöshet, försvar, 000, håravfall, användare, allergiska, tarmar"
+522279,7,t_fass_package_leaflet,FAIL,0.16186252771618626,0.03,https://dev.tech.fass.se/health/product/20211229000052/pl,"övervakning, led, inklusive, använde, flesta, biverkningarna, uppstå, uppenbara, ansikte, orsaka"
+522280,7,t_fass_package_leaflet,FAIL,0.16186252771618626,0.03,https://dev.tech.fass.se/health/product/20211229000052/pl,"övervakning, led, inklusive, använde, flesta, biverkningarna, uppstå, uppenbara, ansikte, orsaka"
+520834,7,t_fass_package_leaflet,FAIL,0.0700985761226725,0.03,https://dev.tech.fass.se/health/product/20201008000076/pl,"urin, produceras, tränar, sök, buksmärtor, njurarna, stressad, nervositet, kallsvettning, speciellt"
+410444,7,t_fass_package_leaflet,FAIL,0.16770186335403728,0.03,https://dev.tech.fass.se/health/product/20121228000031/pl,"tdap, erhållas, vita, enheter, innehållsämnen, infoajvaccinescom, skakats, industrivägen, partiklar, grå"
+502155,7,t_fass_package_leaflet,FAIL,0.12644701691896706,0.03,https://dev.tech.fass.se/health/product/20151001000026/pl,"herpes, gallflödet, nervositet, erektion, olyckor, fötter, skador, hål, gråt, reaktioner"
+526148,7,t_fass_package_leaflet,FAIL,0.11950549450549451,0.03,https://dev.tech.fass.se/health/product/20161102000054/pl,"krampanfall, blodsockernivå, dunkar, ömhet, uppstå, orsaka, tillfälligt, förhöjt, liksom, tecken"
+517239,7,t_fass_package_leaflet,FAIL,0.034578146611341634,0.03,https://dev.tech.fass.se/health/product/20210415000098/pl,"generellt, säkerhet, biverkningarna, 751, wwwlakemedelsverketse, hyperaktivitet, läkemedelsverket, varit, direkt, rapportera"
+517191,7,t_fass_package_leaflet,FAIL,0.04197271773347324,0.03,https://dev.tech.fass.se/health/product/20180810000026/pl,"reproducerbar, kunna, värdet, tyder, lika, förväntade, rekommenderade, anamnes, for, behöver"
+501805,7,t_fass_package_leaflet,FAIL,0.03268945022288262,0.03,https://dev.tech.fass.se/health/product/20160121000021/pl,"missfärgad, svart, stora, känsla, antalet, blöjutslag, prickar, tjärliknande, värmevallningar, knappnålshuvuden"
+45095,7,t_fass_package_leaflet,FAIL,0.07647907647907648,0.03,https://dev.tech.fass.se/health/product/20040607003749/pl,"tre, förpackningsstorlekar, belgien, bagsværd, österrike, rumänien, styrkor, allé, motsvarande, utseende"
+47020,7,t_fass_package_leaflet,FAIL,0.1934826883910387,0.03,https://dev.tech.fass.se/health/product/20040607003046/pl,"två, erhållas, inom, injektionsflaskor, vaccine, svårt, lång, industrivägen, kungariket, partiklar"
+151603,7,t_fass_package_leaflet,FAIL,0.21524663677130046,0.03,https://dev.tech.fass.se/health/product/20051115000281/pl,"218, förpackningsstorlekar, renat, belgien, 194, mgg, dimetikon, försäljning, utseende, marknadsföras"
+520831,7,t_fass_package_leaflet,FAIL,0.06595995288574794,0.03,https://dev.tech.fass.se/health/product/20190830000036/pl,"urin, sök, sagtdu, kräkningarallvarliga, ändrar, ketoacidos, dietatt, speciellt, diabetisk, värre"
+524916,7,t_fass_package_leaflet,FAIL,0.09688013136288999,0.03,https://dev.tech.fass.se/health/product/20180131000026/pl,"1000, ögon, nässlemhinnor, klåda, hals, irriterade, hård, torr, förekommer, fyllnadskänsla"
+500201,7,t_fass_package_leaflet,FAIL,0.055162659123055166,0.03,https://dev.tech.fass.se/health/product/20151106000051/pl,"kramper, näsblödning, luftflöde, oregelbundna, ansågs, svullnad, hörselnedsättning, kräkning, ansikte, behandlingsrelaterade"
+525804,7,t_fass_package_leaflet,FAIL,0.10571923743500866,0.03,https://dev.tech.fass.se/health/product/20051018000043/pl,"symtomen, analt, klåda, störning, svimningskänsla, blålilafärgning, kollaps, ändtarmen, svullnad, reaktion"
+525109,7,t_fass_package_leaflet,FAIL,0.15151515151515152,0.03,https://dev.tech.fass.se/health/product/20190118000031/pl,"intensiv, ökat, biverkningarna, flesta, observerar, syndrom, orsaka, kramp, vätskeansamlingar, njursvikt"
+525086,7,t_fass_package_leaflet,FAIL,0.1753764393268379,0.03,https://dev.tech.fass.se/health/product/20170523000024/pl,"halsbränna, herpes, blek, förvirringstillstånd, tefärgad, långsamma, ömhet, vita, hivläkemedlen, ansikte"
+525101,7,t_fass_package_leaflet,FAIL,0.14893617021276595,0.03,https://dev.tech.fass.se/health/product/20180801000059/pl,"erektion, ejakulationsstörningar, ångest, ansikte, orsaka, impotens, nedan, 168, liksom, ställning"
