@@ -1,7 +1,0 @@
-﻿doc_id,doc_type,table_short_name,status,loss_ratio,threshold,url,missing_words
-397887,6,t_fass_smpc,FAIL,0.05151688609044076,0.03,https://dev.tech.fass.se/health/product/20040302000043/smpc,"psykiska, leukopeni, störd, gallvägar, sialoadenit, angit, vertigo, maligna, pankreatit, njurar"
-84984,6,t_fass_smpc,FAIL,0.05151688609044076,0.03,https://dev.tech.fass.se/health/product/20060105000026/smpc,"psykiska, leukopeni, störd, gallvägar, sialoadenit, angit, vertigo, maligna, pankreatit, njurar"
-108503,6,t_fass_smpc,FAIL,0.03681442524417731,0.03,https://dev.tech.fass.se/health/product/19970919000126/smpc,"exfoliering, koronarspasm, kreatininvärden, paravasation, oftast, vasovagala, anafylaktiska, anafylaktoida, inkludera, dödsfall"
-46423,6,t_fass_smpc,FAIL,0.037509377344336084,0.03,https://dev.tech.fass.se/health/product/19970919000102/smpc,"exfoliering, koronarspasm, kreatininvärden, paravasation, oftast, vasovagala, anafylaktiska, anafylaktoida, inkludera, dödsfall"
-108403,6,t_fass_smpc,FAIL,0.040154440154440155,0.03,https://dev.tech.fass.se/health/product/19970919000096/smpc,"exfoliering, vasospasm, koronarspasm, antingen, kreatininvärden, paravasation, oftast, vasovagala, anafylaktiska, anafylaktoida"
-84983,6,t_fass_smpc,FAIL,0.05154639175257732,0.03,https://dev.tech.fass.se/health/product/20040302000050/smpc,"psykiska, leukopeni, störd, gallvägar, sialoadenit, angit, vertigo, maligna, pankreatit, njurar"
