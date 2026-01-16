@@ -1,7 +1,0 @@
-﻿doc_id,doc_type,table_short_name,status,loss_ratio,url,missing_words
-192067,32,t_veterinary_fass_package_leaflet,FAIL,"0,001984126984126984",https://dev.tech.fass.se/animal/product/20070706000042/pl,prazikvantel
-330775,32,t_veterinary_fass_package_leaflet,FAIL,"0,05856515373352855",https://dev.tech.fass.se/animal/product/20080123000013/pl,"undvik, tiden, nödvändigt, sätt, återhämtningsfasen, upphävning, flexibel, anestesidjup, administreringstid, admini"
-386162,32,t_veterinary_fass_package_leaflet,FAIL,"0,0072992700729927005",https://dev.tech.fass.se/animal/product/20090428000106/pl,"vikt, styrka, milbemycinoximtablett, upp"
-389141,32,t_veterinary_fass_package_leaflet,FAIL,"0,0029282576866764276",https://dev.tech.fass.se/animal/product/20091201000023/pl,"djurart, mus"
-390291,32,t_veterinary_fass_package_leaflet,FAIL,"0,0021551724137931034",https://dev.tech.fass.se/animal/product/20100202000014/pl,fortsätt
-396599,32,t_veterinary_fass_package_leaflet,FAIL,"0,0025188916876574307",https://dev.tech.fass.se/animal/product/20100805000053/pl,antal
